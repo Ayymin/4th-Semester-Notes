@@ -249,3 +249,14 @@ void DisplayMeasurement(double measurement)
 * Do statementet eksekverer dens krop en eller flere gange.
 * While statementet eksekverer dens krop nul eller flere gange. 
 På hvilket som helst et tidspunkt kan man breake ud at et iterations statement, ved at anvende "break". Den næste iteration i et loop tilgås ved ghjælp af "continue" statement. 
+
+```C#
+int n = 0;
+do
+{
+    Console.Write(n);
+    n++;
+} while (n < 5);
+// Output:
+// 01234
+```
