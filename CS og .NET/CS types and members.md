@@ -1,9 +1,9 @@
 Som et objektorienteret sprog understøtter C# begreberne indkapsling, arv og polymorfi. 
-Metoder, der tilsidsesætter virtuelle metoder i en overordnet klasse, kræver nøgleordet "override"
+Metoder, der tilsidesætter virtuelle metoder i en overordnet klasse, kræver nøgleordet "override"
 
 Eksempel:
 ```C#
-public ovverride string ToString() 
+public override string ToString() 
 {
 	return firstName
 }
@@ -72,3 +72,6 @@ foreach (var point in factory.CreatePoints())
 	Console.WriteLine($"({point.X}, {point.Y})");
 }
 ```
+
+**Generiske typer**
+Generiske klasser definere typeparametere

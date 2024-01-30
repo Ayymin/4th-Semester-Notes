@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New test note.md",
+                "file": "CS og .NET/CS types and members.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f638bce24787638b",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New test note.md",
+                "file": "CS og .NET/CS types and members.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New test note.md",
+                "file": "CS og .NET/CS types and members.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New test note.md"
+                "file": "CS og .NET/CS types and members.md"
               }
             }
           }
@@ -148,9 +149,9 @@
   },
   "active": "c9b0988b77b78f42",
   "lastOpenFiles": [
+    "New test note.md",
     "CS og .NET/Lektion 1 Introduktion til CS og .NET.md",
     "CS og .NET/CS types and members.md",
-    "New test note.md",
     "CS og .NET/New mappe.md",
     "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf",
     "CS og .NET/PDF'er",
