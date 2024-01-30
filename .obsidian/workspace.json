@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/Test note.md",
+                "file": "New mappe/Test note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/Test note.md",
+                "file": "New mappe/Test note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled/Test note.md",
+                "file": "New mappe/Test note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled/Test note.md"
+                "file": "New mappe/Test note.md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d819cd53e2a65399",
+  "active": "371e0d260a2afdff",
   "lastOpenFiles": [
     "Welcome.md",
-    "Untitled/Test note.md",
-    "Untitled",
+    "New mappe/Test note.md",
+    "New mappe",
     "Untitled.md"
   ]
 }
