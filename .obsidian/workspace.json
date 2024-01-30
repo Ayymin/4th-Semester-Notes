@@ -29,8 +29,12 @@
             "id": "d819cd53e2a65399",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Untitled/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Untitled/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Untitled/Untitled.md"
               }
             }
           }
@@ -160,8 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63d1698b53ba8c46",
+  "active": "d819cd53e2a65399",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Untitled/Untitled.md",
+    "Welcome.md",
+    "Untitled",
+    "Untitled.md"
   ]
 }
