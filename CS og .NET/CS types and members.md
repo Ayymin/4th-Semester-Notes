@@ -171,3 +171,13 @@ var theYear = Seasons.All;
 **Nullbare typer**
 Variabler af enhver type kan erklæres som *ikke-nullable* eller *nullable*.
 En nullbar kan indeholde en ekstra "null" værdi, hvilket indikerer ingen værdi. 
+```C#
+//Definere nullable integer variabel.
+int? optionalInt = default;  
+//Initialiserer den til "null" vha. default.
+
+//Tildeler 
+optionalInt = 5;
+string? optionalText = default;
+optionalText = "Hello World.";
+```
