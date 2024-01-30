@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New test note.md",
+                "file": "CS og .NET/New mappe.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New test note.md",
+                "file": "CS og .NET/New mappe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New test note.md",
+                "file": "CS og .NET/New mappe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New test note.md"
+                "file": "CS og .NET/New mappe.md"
               }
             }
           }
@@ -146,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "371e0d260a2afdff",
+  "active": "c9b0988b77b78f42",
   "lastOpenFiles": [
+    "New test note.md",
     "iOS mappe",
     "Untitled",
     "CS og .NET/New mappe.md",
-    "New test note.md",
     "CS og .NET",
     "Welcome.md",
     "wa.md",
