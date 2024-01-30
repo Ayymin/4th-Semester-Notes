@@ -120,4 +120,22 @@ public struct Point
 
 **Interfaces**
 Definere en kontrakt, der kan implementeres af klasser og structs. Et interface kan indeholde metoder, properties, events og indexer. 
-Interfaces kan også nedarves fra hinanden, lige
+Interfaces kan også nedarves fra hinanden, vises i det givet eksempel:
+``` C#
+interface IControl
+{
+    void Paint();
+}
+
+interface ITextBox : IControl
+{
+    void SetText(string text);
+}
+
+interface IListBox : IControl
+{
+    void SetItems(string[] items);
+}
+
+interface IComboBox : ITextBox, IListBox { }
+```
