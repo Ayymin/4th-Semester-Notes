@@ -176,8 +176,10 @@ En nullbar kan indeholde en ekstra "null" værdi, hvilket indikerer ingen værdi
 int? optionalInt = default;  
 //Initialiserer den til "null" vha. default.
 
-//Tildeler 
+//Tildeler den en værdi, så den ikke længere er null.
 optionalInt = 5;
+
 string? optionalText = default;
+
 optionalText = "Hello World.";
 ```
