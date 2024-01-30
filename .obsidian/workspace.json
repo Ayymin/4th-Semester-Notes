@@ -4,19 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "b36918ef666e9e80",
+        "id": "3e7a5663064c35ab",
         "type": "tabs",
         "children": [
           {
-            "id": "c9b0988b77b78f42",
+            "id": "63d1698b53ba8c46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New test note.md",
+                "file": "CS og .NET/Lektion 1 Introduktion til CS og .NET.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b36918ef666e9e80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d819cd53e2a65399",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New test note.md",
+                "file": "CS og .NET/Lektion 1 Introduktion til CS og .NET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New test note.md",
+                "file": "CS og .NET/Lektion 1 Introduktion til CS og .NET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +139,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New test note.md"
+                "file": "CS og .NET/Lektion 1 Introduktion til CS og .NET.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "371e0d260a2afdff",
+  "active": "63d1698b53ba8c46",
   "lastOpenFiles": [
-    "iOS mappe",
-    "Untitled",
+    "Lek1 Opgaver (1).pdf",
     "CS og .NET/New mappe.md",
-    "New test note.md",
+    "CS og .NET/Lektion 1 Introduktion til CS og .NET.md",
     "CS og .NET",
     "Welcome.md",
-    "wa.md",
-    "New mappe/wae.md",
-    "New mappe/Test note.md",
-    "New mappe"
+    "Test map/New mappe.md",
+    "Test map",
+    "New test note.md",
+    "New note.md",
+    "Untitled.md"
   ]
 }
