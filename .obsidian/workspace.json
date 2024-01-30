@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS og .NET/Lektion 1 Introduktion til CS og .NET.md",
+                "file": "New test note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS og .NET/Lektion 1 Introduktion til CS og .NET.md",
+                "file": "New test note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS og .NET/Lektion 1 Introduktion til CS og .NET.md",
+                "file": "New test note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS og .NET/Lektion 1 Introduktion til CS og .NET.md"
+                "file": "New test note.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "c9b0988b77b78f42",
   "lastOpenFiles": [
+    "CS og .NET/Lektion 1 Introduktion til CS og .NET.md",
+    "CS og .NET/CS types and members.md",
     "New test note.md",
     "CS og .NET/New mappe.md",
     "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf",
     "CS og .NET/PDF'er",
-    "CS og .NET/Lektion 1 Introduktion til CS og .NET.md",
     "iOS mappe",
     "Untitled",
     "CS og .NET",
