@@ -89,3 +89,5 @@ var pair = new Pair<int, string>(1, "two");
 int i = pair.First;     //TFirst int
 string s = pair.Second; //TSecond string
 ```
+
+Basis klasser
