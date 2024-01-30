@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test map/New mappe.md",
+                "file": "New test note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test map/New mappe.md",
+                "file": "New test note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test map/New mappe.md",
+                "file": "New test note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test map/New mappe.md"
+                "file": "New test note.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "c9b0988b77b78f42",
   "lastOpenFiles": [
-    "New test note.md",
     "Test map/New mappe.md",
+    "New test note.md",
     "Test map",
     "Welcome.md",
     "wa.md",
