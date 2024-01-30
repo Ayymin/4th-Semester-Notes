@@ -246,5 +246,6 @@ void DisplayMeasurement(double measurement)
 #### Iterations - for, foreach, do and while
 * For statements ekseverer deres body når et specificeret boolsk udtryk er "true".
 * Foreach statement *enumerater* elementer af en samling og eksekverer dens body for hvert element i samlingen.
-* Do statementet e dens krop en eller flere gange.
-* While statementt
+* Do statementet eksekverer dens krop en eller flere gange.
+* While statementet eksekverer dens krop nul eller flere gange. 
+På hvilket som helst et tidspunkt kan man breake ud at et iterations statement, ved at anvende "break". Den næste iteration i et loop tilgås ved ghjælp af "continue" statement. 
