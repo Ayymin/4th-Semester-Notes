@@ -107,4 +107,13 @@ public class Point3D : Point
 
 
 Structs
-Struct klasser understøtter ikke polymorfisme og nedarvning. De bruges primært til simpel datalagring og sendes som værdier. Man kan ikke nedarve struct type
+Struct klasser understøtter ikke polymorfisme og nedarvning. De bruges primært til simpel datalagring og sendes som værdier. En struct type kan ikke nedarves fra en anden. 
+```C#
+public struct Point
+{
+    public double X { get; }
+    public double Y { get; }
+    
+    public Point(double x, double y) => (X, Y) = (x, y);
+}
+```
