@@ -91,3 +91,16 @@ string s = pair.Second; //TSecond string
 ```
 
 Basis klasser
+E
+```C#
+
+public class Point3D : Point
+{
+    public int Z { get; set; }
+    
+    public Point3D(int x, int y, int z) : base(x, y)
+    {
+        Z = z;
+    }
+}
+```
