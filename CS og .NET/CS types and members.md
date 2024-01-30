@@ -107,4 +107,4 @@ public class Point3D : Point
 
 
 Structs
-I mods
+I modsætning til klasser som understøtter polymorfisme og nedarvning, understøter Struct typer 
