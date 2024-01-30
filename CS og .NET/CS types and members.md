@@ -241,3 +241,8 @@ void DisplayMeasurement(double measurement)
 }
 ```
 
+
+
+#### Iterations - for, foreach, do and while
+For statements ekseverer deres body når et specificeret boolsk udtryk er "true".
+Foreach 
