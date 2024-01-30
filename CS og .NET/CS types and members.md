@@ -91,7 +91,7 @@ string s = pair.Second; //TSecond string
 ```
 
 Basis klasser
-E
+Eksempel med nedarvning, Point3D nedarver fra Point klassen. 
 ```C#
 
 public class Point3D : Point
@@ -104,3 +104,7 @@ public class Point3D : Point
     }
 }
 ```
+
+
+Structs
+I mods
