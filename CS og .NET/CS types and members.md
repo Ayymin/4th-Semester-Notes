@@ -139,3 +139,14 @@ interface IListBox : IControl
 
 interface IComboBox : ITextBox, IListBox { }
 ```
+
+**Enums**
+En enum type definere et set af konstante værdier.
+```C#
+public enum SomeRootVegetable
+{
+    HorseRadish,
+    Radish,
+    Turnip
+}
+```
