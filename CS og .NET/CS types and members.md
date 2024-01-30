@@ -107,4 +107,4 @@ public class Point3D : Point
 
 
 Structs
-I modsætning til klasser som understøtter polymorfisme og nedarvning, understøter Struct typer 
+Struct klasser understøtter ikke polymorfisme og nedarvning. De bruges primært til simpel datalagring og sendes som værdier. Man kan ikke nedarve struct type
