@@ -119,4 +119,5 @@ public struct Point
 ```
 
 **Interfaces**
-Definere en kontrakt, der kan implementeres af klasser og structs. Et int
+Definere en kontrakt, der kan implementeres af klasser og structs. Et interface kan indeholde metoder, properties, events og indexer. 
+Interfaces kan også nedarves fra hinanden, lige
