@@ -169,4 +169,5 @@ var theYear = Seasons.All;
 ```
 
 **Nullbare typer**
-Variabler af enhver type kan erklæres s
+Variabler af enhver type kan erklæres som *ikke-nullable* eller *nullable*.
+En nullbar kan indeholde en ekstra "null" værdi, hvilket indikerer ingen værdi. 
