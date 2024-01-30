@@ -90,7 +90,7 @@ int i = pair.First;     //TFirst int
 string s = pair.Second; //TSecond string
 ```
 
-Basis klasser
+**Basis klasser**
 Eksempel med nedarvning, Point3D nedarver fra Point klassen. 
 ```C#
 
@@ -106,7 +106,7 @@ public class Point3D : Point
 ```
 
 
-Structs
+**Structs**
 Struct klasser understøtter ikke polymorfisme og nedarvning. De bruges primært til simpel datalagring og sendes som værdier. En struct type kan ikke nedarves fra en anden. 
 ```C#
 public struct Point
@@ -117,3 +117,6 @@ public struct Point
     public Point(double x, double y) => (X, Y) = (x, y);
 }
 ```
+
+**Interfaces**
+Definere en kontrakt, der kan implementeres af klasser og structs. Et int
