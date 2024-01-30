@@ -4,31 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3e7a5663064c35ab",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "63d1698b53ba8c46",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "b36918ef666e9e80",
         "type": "tabs",
         "children": [
           {
-            "id": "d819cd53e2a65399",
+            "id": "c9b0988b77b78f42",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS og .NET/Lektion 1 Introduktion til CS og .NET.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf",
+                "file": "CS og .NET/Lektion 1 Introduktion til CS og .NET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf",
+                "file": "CS og .NET/Lektion 1 Introduktion til CS og .NET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf"
+                "file": "CS og .NET/Lektion 1 Introduktion til CS og .NET.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,19 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "371e0d260a2afdff",
+  "active": "c9b0988b77b78f42",
   "lastOpenFiles": [
     "New test note.md",
+    "CS og .NET/New mappe.md",
     "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf",
-    "PDF",
     "CS og .NET/PDF'er",
     "CS og .NET/Lektion 1 Introduktion til CS og .NET.md",
-    "CS og .NET/New mappe.md",
+    "iOS mappe",
+    "Untitled",
     "CS og .NET",
     "Welcome.md",
-    "Test map/New mappe.md",
-    "Test map",
-    "New note.md",
-    "Untitled.md"
+    "wa.md",
+    "New mappe/wae.md",
+    "New mappe/Test note.md",
+    "New mappe"
   ]
 }
