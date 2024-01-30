@@ -11,24 +11,12 @@
             "id": "63d1698b53ba8c46",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf"
+                "file": "CS og .NET/CS types and members.md",
+                "mode": "source",
+                "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b36918ef666e9e80",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d819cd53e2a65399",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f638bce24787638b",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf",
+                "file": "CS og .NET/CS types and members.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf",
+                "file": "CS og .NET/CS types and members.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf"
+                "file": "CS og .NET/CS types and members.md"
               }
             }
           }
@@ -158,13 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "371e0d260a2afdff",
+  "active": "63d1698b53ba8c46",
   "lastOpenFiles": [
-    "New test note.md",
     "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf",
+    "CS og .NET/CS types and members.md",
+    "CS og .NET/CS types and members/Untitled.md",
+    "CS og .NET/CS types and members",
+    "CS og .NET/Lektion 1 Introduktion til CS og .NET.md",
+    "New test note.md",
     "PDF",
     "CS og .NET/PDF'er",
-    "CS og .NET/Lektion 1 Introduktion til CS og .NET.md",
     "CS og .NET/New mappe.md",
     "CS og .NET",
     "Welcome.md",
