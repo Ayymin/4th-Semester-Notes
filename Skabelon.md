@@ -1,8 +1,7 @@
 
 ### Lektionens Dagsplan 
 
-### Literatur
-
+### Litteratur
 
 ### Noter
 

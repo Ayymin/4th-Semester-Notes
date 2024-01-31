@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skabelon.md",
+                "file": "Systemintegration/Introduktion.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skabelon.md",
+                "file": "Systemintegration/Introduktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skabelon.md",
+                "file": "Systemintegration/Introduktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skabelon.md"
+                "file": "Systemintegration/Introduktion.md"
               }
             }
           }
@@ -161,7 +161,10 @@
   },
   "active": "d24eb8e888348e6f",
   "lastOpenFiles": [
+    "Systemintegration/Dagsplaner/Dagsplan01.pdf",
     "Systemintegration/Introduktion.md",
+    "Dagsplan01.pdf",
+    "Systemintegration/Dagsplaner",
     "Skabelon.md",
     "CS og .NET/CS types and members.md",
     "Systemintegration",
