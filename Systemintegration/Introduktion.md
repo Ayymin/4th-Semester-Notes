@@ -9,5 +9,5 @@ Side 83-140
 
 Integration indenfor IT's verden betyder grundlæggende at få forskellige systemer til at arbejde sammen harmonisk og dele information effektivt. 
 
-Forestil dig et
+Brugeren tænker ikke over de interne systemgrænser, når de interagerer med en virksomhed. De uydfø
 
