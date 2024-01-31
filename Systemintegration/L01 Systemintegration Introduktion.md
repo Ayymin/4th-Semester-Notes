@@ -19,7 +19,7 @@ Per definition, er integration ikke en nemt. På et entreprise niveau, arbejder 
 * Kan have store konsekvens, når kritiske funktioner er involveret. Dårlig ydeevne i integrationen kan føre til stort tab i kapital.
 * Vedligeholdelse af EAI (Entreprise Application Integration) kan også være kompliceret, da man kan ende med komplekse blandinger af teknologier på baggrund af deres karakter. 
 
-#### 6 typer af integration
+#### 5 typer af integration
 
 ##### Information Portals
 Defineres som værktøjer, der samler information fra forskellige kilder og viser det på en skærm for at undgå, at brugeren skal tilgå flere systemer.
@@ -31,14 +31,10 @@ Mange forretningssystemer har brug for adgang til det samme data. Fx en kunde ad
 ##### Shared Business Function
 ![[msedge_sF2ShcrmjJ.png]]
 For at undgå redundante funktioner, hvor flere systemer skal kontrollere, om et stykke information er gyldigt, kan man implementere en Shared business Function, der kun skal udvikles en gang og derefter deles som en tjeneste til andre systemer. 
-
-
 ##### Service-Oriented Architecture
 ![[Service-OrientedArchitecture.png]]
 Service Oriented Architecture (SOA) anvender tjenester som grænseflader til at tillade forskellige softwarekomponenter eller systemer at kommunikere og samarbejde. Tjenester fungerer som standardiserede skabeloner, der gør det nemmere for forskellige systemer at integrere og udveklse data samt funktionalitet, på samme måde som et interface i programmering. 
 
 
 
-##### Distributed Business Process
-
-Integration er afgørende, da en enkelt forretningsmæssig transkation ofte involvere flere systemer. Her kan man gør brug af distributed
+##### Business-to-Business Integration
