@@ -1,3 +1,18 @@
+Dette note dækker over en række af typer og klasser og hvordan de erklæres i C#.
+Her gælder det for følgende:
+#Structs
+#Klasser/Objekter
+#GeneriskeTyper
+#Basisklasser
+#Interface
+#Enumeration
+#NullbareTyper
+
+Der bliver derudover også dækket for hvordan conditionals (If, Switch) og Iterationsprocessor.
+#If/Switch
+#Iterationer
+
+
 Som et objektorienteret sprog understøtter C# begreberne indkapsling, arv og polymorfi. 
 Metoder, der tilsidesætter virtuelle metoder i en overordnet klasse, kræver nøgleordet "override"
 
@@ -11,6 +26,7 @@ public override string ToString()
 Det undgår tilsigtet omdefinering. 
 
 **Structs**
+#Structs 
 I C# er det en lightweight class, sholder på variabler og data, som arbejdes med en enhed. 
 
 ```C#
@@ -142,6 +158,7 @@ interface IComboBox : ITextBox, IListBox { }
 
 **Enums**
 En enum type definere et set af konstante værdier.
+Alle værdier nævnes i definitionen af enumeration.
 ```C#
 public enum SomeRootVegetable
 {
@@ -255,4 +272,12 @@ do
 } while (n < 5);
 // Output:
 // 01234
+```
+
+
+#### Namespaces
+C# bruger namespaces til at organisere koden i moduler. Svarer til package systemet i Java. Anvendes således:
+```C#
+using System.Drawing;
+//Giver adgang til alle erklæringer i namespace System.drawing
 ```
