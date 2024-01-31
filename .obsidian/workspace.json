@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d24eb8e888348e6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skabelon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systemintegration/Introduktion.md",
+                "file": "Skabelon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systemintegration/Introduktion.md",
+                "file": "Skabelon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systemintegration/Introduktion.md"
+                "file": "Skabelon.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9b0988b77b78f42",
+  "active": "d24eb8e888348e6f",
   "lastOpenFiles": [
-    "CS og .NET/CS types and members.md",
     "Systemintegration/Introduktion.md",
+    "Skabelon.md",
+    "CS og .NET/CS types and members.md",
     "Systemintegration",
     "New test note.md",
     "CS og .NET/Lektion 1 Introduktion til CS og .NET.md",
