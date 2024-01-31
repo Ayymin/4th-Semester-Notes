@@ -15,7 +15,7 @@ Brugeren tænker ikke over de interne systemgrænser, når de interagerer med en
 For at beholde denne fremsættelse, kræver det at systemer og applikationer bliver integreret. 
 
 #### Integrations udfordringer
-
+Per definition, er integration ikke en nemt. På et entreprise niveau, arbejder man med flere forskellige applikationer, som kører på forskellige platforms, i forskellige steder. 
 
 
 
