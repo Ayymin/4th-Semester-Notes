@@ -39,3 +39,4 @@ Mange forretningssystemer har brug for adgang til det samme data. Fx en kunde ad
 
 ##### Shared Business Function
 ![[msedge_sF2ShcrmjJ.png]]
+For at undgå rendundante funktioner, hvor flere systemer skal kontrollere, om et stykke information er gyldigt
