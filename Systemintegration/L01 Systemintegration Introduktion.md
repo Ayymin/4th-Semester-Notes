@@ -19,5 +19,9 @@ Per definition, er integration ikke en nemt. På et entreprise niveau, arbejder 
 * Kan have store konsekvens, når kritiske funktioner er involveret. Dårlig ydeevne i integrationen kan føre til stort tab i kapital.
 * Vedligeholdelse af EAI (Entreprise Application Integration) kan også være kompliceret, da man kan ende med komplekse blandinger af teknologier på baggrund af deres karakter. 
 
-#### Integrations patterns
+#### 6 typer af integration
+
+##### Information Portals
+
+
 
