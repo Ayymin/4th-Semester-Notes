@@ -31,3 +31,6 @@ Mange forretningssystemer har brug for adgang til det samme data. Fx en kunde ad
 ##### Shared Business Function
 ![[msedge_sF2ShcrmjJ.png]]
 For at undgå redundante funktioner, hvor flere systemer skal kontrollere, om et stykke information er gyldigt, kan man implementere en Shared business Function, der kun skal udvikles en gang og derefter deles som en tjeneste til andre systemer. 
+
+
+##### Service-Oriented Architecture
