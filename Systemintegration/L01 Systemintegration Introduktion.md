@@ -34,3 +34,5 @@ For at undgå redundante funktioner, hvor flere systemer skal kontrollere, om et
 
 
 ##### Service-Oriented Architecture
+
+Service Oriented Architecture (SOA) anvender t
