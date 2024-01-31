@@ -41,4 +41,4 @@ Service Oriented Architecture (SOA) anvender tjenester som grænseflader til at 
 
 ##### Distributed Business Process
 
-For integration er det a
+Integration er afgørende, da en enkelt forretningsmæssig transkation ofte involvere flere systemer. Her kan man gør brug af distributed
