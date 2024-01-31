@@ -22,6 +22,7 @@ Per definition, er integration ikke en nemt. På et entreprise niveau, arbejder 
 #### 6 typer af integration
 
 ##### Information Portals
+Defineres som værktøjer, der samler information fra forskellige kilder og viser dt
 
 
 
