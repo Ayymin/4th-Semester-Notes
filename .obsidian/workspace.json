@@ -23,9 +23,11 @@
             "id": "d24eb8e888348e6f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Informationsportal.png"
+                "file": "Systemintegration/L01 Systemintegration Introduktion.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -80,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f638bce24787638b",
@@ -96,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informationsportal.png",
+                "file": "Systemintegration/L01 Systemintegration Introduktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informationsportal.png",
+                "file": "Systemintegration/L01 Systemintegration Introduktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informationsportal.png"
+                "file": "Systemintegration/L01 Systemintegration Introduktion.md"
               }
             }
           }
@@ -159,8 +162,8 @@
   },
   "active": "371e0d260a2afdff",
   "lastOpenFiles": [
-    "Systemintegration/L01 Systemintegration Introduktion.md",
     "Informationsportal.png",
+    "Systemintegration/L01 Systemintegration Introduktion.md",
     "CS og .NET/CS types and members.md",
     "Systemintegration/Dagsplaner/Dagsplan01.pdf",
     "Dagsplan01.pdf",
