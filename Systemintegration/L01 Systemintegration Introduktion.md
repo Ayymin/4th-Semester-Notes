@@ -32,3 +32,10 @@ Mange forretningssystemer har brug for adgang til det samme data. Fx en kunde ad
 
 
 
+
+
+
+
+
+##### Shared Business Function
+![[msedge_sF2ShcrmjJ.png]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systemintegration/L01 Systemintegration Introduktion.md",
+                "file": "Shared Business Function.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f638bce24787638b",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systemintegration/L01 Systemintegration Introduktion.md",
+                "file": "Shared Business Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systemintegration/L01 Systemintegration Introduktion.md",
+                "file": "Shared Business Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systemintegration/L01 Systemintegration Introduktion.md"
+                "file": "Shared Business Function.md"
               }
             }
           }
@@ -160,11 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d24eb8e888348e6f",
+  "active": "c9b0988b77b78f42",
   "lastOpenFiles": [
-    "DataReplikation.png",
-    "Skabelon.md",
+    "msedge_sF2ShcrmjJ.png",
     "Systemintegration/L01 Systemintegration Introduktion.md",
+    "Shared Business Function.md",
+    "DataReplikation.png",
     "Informationsportal.png",
     "CS og .NET/CS types and members.md",
     "Systemintegration/Dagsplaner/Dagsplan01.pdf",
