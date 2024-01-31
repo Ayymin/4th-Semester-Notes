@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3e7a5663064c35ab",
+        "id": "b36918ef666e9e80",
         "type": "tabs",
         "children": [
           {
-            "id": "63d1698b53ba8c46",
+            "id": "c9b0988b77b78f42",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#If/Switch",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "f638bce24787638b",
@@ -130,12 +129,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,22 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10475c222662f33a",
+  "active": "371e0d260a2afdff",
   "lastOpenFiles": [
-    "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf",
-    "CS og .NET/CS types and members.md",
-    "CS og .NET/CS types and members/Untitled.md",
-    "CS og .NET/CS types and members",
-    "CS og .NET/Lektion 1 Introduktion til CS og .NET.md",
+    "Untitled",
     "New test note.md",
-    "PDF",
-    "CS og .NET/PDF'er",
+    "CS og .NET/CS types and members.md",
+    "CS og .NET/Lektion 1 Introduktion til CS og .NET.md",
     "CS og .NET/New mappe.md",
+    "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf",
+    "CS og .NET/PDF'er",
+    "iOS mappe",
     "CS og .NET",
     "Welcome.md",
-    "Test map/New mappe.md",
-    "Test map",
-    "New note.md",
-    "Untitled.md"
+    "wa.md",
+    "New mappe/wae.md",
+    "New mappe/Test note.md",
+    "New mappe"
   ]
 }
