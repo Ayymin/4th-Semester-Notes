@@ -28,15 +28,6 @@ For eksempel, en detailvirksomheder kan bruge en information portal, så deres k
 ##### Data Replication
 ![[DataReplikation.png]]
 Mange forretningssystemer har brug for adgang til det samme data. Fx en kunde adresse, som bruges i kundeservice, regnskab, forsendelse og fakturering. Løses vha. en datareplikationsstrategi, som kan udføres på forskellige måde. Import/Eksport af datafiler kunne være et eksempel.
-
-
-
-
-
-
-
-
-
 ##### Shared Business Function
 ![[msedge_sF2ShcrmjJ.png]]
-For at undgå rendundante funktioner, hvor flere systemer skal kontrollere, om et stykke information er gyldigt
+For at undgå redundante funktioner, hvor flere systemer skal kontrollere, om et stykke information er gyldigt, kan man implementere en Shared business Function, der kun skal udvikles en gang og derefter deles som en tjeneste til andre systemer. 
