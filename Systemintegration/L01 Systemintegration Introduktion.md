@@ -26,7 +26,9 @@ Defineres som værktøjer, der samler information fra forskellige kilder og vise
 ![[Informationsportal.png]]
 For eksempel, en detailvirksomheder kan bruge en information portal, så deres kundeservicemedarbejdere nemt kan finde oplysninger om kundekøb, lagerbeholdning og leverings oplysninger fra forskellige systemer. 
 ##### Data Replication
-Mange forretningssystemer har brug for adgang til det samme data. Fx en kundeaddresse, som bruges i kundeservice, regnskab, forsendelse og fakturering. Løses vha. en datareplikationsstrategi, som kan udføær
+![[DataReplikation.png]]
+Mange forretningssystemer har brug for adgang til det samme data. Fx en kunde adresse, som bruges i kundeservice, regnskab, forsendelse og fakturering. Løses vha. en datareplikationsstrategi, som kan udføres på forskellige måde. Import/Eksport af datafiler kunne være et eksempel.
+
 
 
 
