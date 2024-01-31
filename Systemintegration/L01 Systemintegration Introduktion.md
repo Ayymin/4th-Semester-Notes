@@ -18,7 +18,7 @@ For at beholde denne fremsættelse, kræver det at systemer og applikationer bli
 Per definition, er integration ikke en nemt. På et entreprise niveau, arbejder man med flere forskellige applikationer, som kører på forskellige platforms, i forskellige steder. 
 * I en virksomhed kræver det sammenhørighed på tværs af afdelinger. 
 * Kan have store konsekvens, når kritiske funktioner er involveret. Dårlig ydeevne i integrationen kan føre til stort tab i kapital.
-* Vedligeholdelse af EAI (Entreprise Application Integration) kan også være kompliceret, da man kan e
+* Vedligeholdelse af EAI (Entreprise Application Integration) kan også være kompliceret, da man kan ende med komplekse blandinger af teknologier på baggrund af deres karakter. 
 
 
 
