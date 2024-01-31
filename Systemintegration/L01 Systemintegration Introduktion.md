@@ -34,6 +34,6 @@ For at undgå redundante funktioner, hvor flere systemer skal kontrollere, om et
 
 
 ##### Service-Oriented Architecture
-
-Service Oriented Architecture (SOA) anvender tjenester som grænseflader til at tillade forskellige softwarekomponenter eller systemer at kommunikere og samarbejde. Tjenester fungerer som standardiserede skabeloner, der gør det nemmere for forskellige systemer at integrere og udveklse data samt funktionalitet, på samme  åde som et interface i programmering. 
+![[Service-OrientedArchitecture.png]]
+Service Oriented Architecture (SOA) anvender tjenester som grænseflader til at tillade forskellige softwarekomponenter eller systemer at kommunikere og samarbejde. Tjenester fungerer som standardiserede skabeloner, der gør det nemmere for forskellige systemer at integrere og udveklse data samt funktionalitet, på samme måde som et interface i programmering. 
 
