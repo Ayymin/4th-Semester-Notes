@@ -40,3 +40,5 @@ Service Oriented Architecture (SOA) anvender tjenester som grænseflader til at 
 
 
 ##### Distributed Business Process
+
+For integration er det a
