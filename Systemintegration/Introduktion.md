@@ -7,4 +7,4 @@ Side 83-140
 
 ### Noter
 
-Integration 
+Integration s
