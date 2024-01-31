@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f638bce24787638b",
@@ -159,7 +160,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d24eb8e888348e6f",
+  "active": "371e0d260a2afdff",
   "lastOpenFiles": [
     "Systemintegration/Dagsplaner/Dagsplan01.pdf",
     "Systemintegration/Introduktion.md",
