@@ -36,4 +36,4 @@ For at undgå redundante funktioner, hvor flere systemer skal kontrollere, om et
 Service Oriented Architecture (SOA) anvender tjenester som grænseflader til at tillade forskellige softwarekomponenter eller systemer at kommunikere og samarbejde. Tjenester fungerer som standardiserede skabeloner, der gør det nemmere for forskellige systemer at integrere og udveklse data samt funktionalitet, på samme måde som et interface i programmering. 
 ##### Business-to-Business Integration
 ![[Business-To-Business.png]]
-Business-To-Business integration involverer samarbejde og dataudveksling mellem virksomheder og deres partnere. Dette kan indebærer tjenester såsom beregning af forsendelsesomkostninger, sp
+Business-To-Business integration involverer samarbejde og dataudveksling mellem virksomheder og deres partnere. Dette kan indebærer tjenester såsom beregning af forsendelsesomkostninger, sporing af forsendelser eller beregning af afgifter. 
