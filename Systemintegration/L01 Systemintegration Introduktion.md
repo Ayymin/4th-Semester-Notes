@@ -17,6 +17,7 @@ For at beholde denne fremsættelse, kræver det at systemer og applikationer bli
 #### Integrations udfordringer
 Per definition, er integration ikke en nemt. På et entreprise niveau, arbejder man med flere forskellige applikationer, som kører på forskellige platforms, i forskellige steder. 
 * I en virksomhed kræver det sammenhørighed på tværs af afdelinger. 
+* Kan have store konsekvens, når kritiske funktioner er involveret. Dårlig ydeevne i integrationen kan føre til stort tab i kapital.
 * 
 
 
