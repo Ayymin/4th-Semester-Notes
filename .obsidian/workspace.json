@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systemintegration/Introduktion.md",
+                "file": "Systemintegration/L01 Systemintegration Introduktion.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systemintegration/Introduktion.md",
+                "file": "Systemintegration/L01 Systemintegration Introduktion.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f638bce24787638b",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systemintegration/Introduktion.md",
+                "file": "Systemintegration/L01 Systemintegration Introduktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systemintegration/Introduktion.md",
+                "file": "Systemintegration/L01 Systemintegration Introduktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systemintegration/Introduktion.md"
+                "file": "Systemintegration/L01 Systemintegration Introduktion.md"
               }
             }
           }
@@ -163,7 +162,7 @@
   "active": "371e0d260a2afdff",
   "lastOpenFiles": [
     "Systemintegration/Dagsplaner/Dagsplan01.pdf",
-    "Systemintegration/Introduktion.md",
+    "Systemintegration/L01 Systemintegration Introduktion.md",
     "Dagsplan01.pdf",
     "Systemintegration/Dagsplaner",
     "Skabelon.md",
