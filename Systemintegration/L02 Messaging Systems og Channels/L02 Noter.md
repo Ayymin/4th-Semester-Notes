@@ -37,3 +37,5 @@ Filer som vi kender det, er en universel mekanisme der anvendes til at bevare da
 
 
 ##### Shared Database
+
+Når applikationer deler en fælles database, kan de let hente og gemme filer på et centralt sted, ved brug af relationelle databaser. Vi er så heldig at SQL næsten kan bruges i alle former for applikationer, der tillader 
