@@ -50,4 +50,6 @@ Dette kaldes for encapsulation.
 
 ##### Messaging
 Når man har besluttet sig for at anvende messaging for system integration, er der nogle faktorer som man skal overveje.
-* Hvordan vil du sende 
+
+ * Hvordan vil du transfer data packets?
+En afsender sender data til en reciever ved at sende en message via en Message Channel, som forbinder afsenderen og recieveren.
