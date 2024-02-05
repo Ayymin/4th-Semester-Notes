@@ -27,5 +27,5 @@ Der vil dog senere blive taget udgangspunkt i Messaging, som kan defineres:
 ##### File Transfer
 ![[fileTransfer.png]]
 
-
+Filer som vi kender det, er en universel mekanisme der anvendes til at bevare data. Det vil derfor være en yderst g
 
