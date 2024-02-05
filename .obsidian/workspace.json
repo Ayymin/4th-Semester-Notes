@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systemintegration/L02/L02 Messaging Systems og Channels.md",
+                "file": "Systemintegration/L01 Systemintegration Introduktion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systemintegration/L02/L02 Messaging Systems og Channels.md",
+                "file": "Systemintegration/L01 Systemintegration Introduktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systemintegration/L02/L02 Messaging Systems og Channels.md",
+                "file": "Systemintegration/L01 Systemintegration Introduktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systemintegration/L02/L02 Messaging Systems og Channels.md"
+                "file": "Systemintegration/L01 Systemintegration Introduktion.md"
               }
             }
           }
@@ -185,9 +185,11 @@
   },
   "active": "371e0d260a2afdff",
   "lastOpenFiles": [
-    "fileTransfer.png",
-    "Systemintegration/L02",
-    "Systemintegration/L02/L02 Messaging Systems og Channels.md",
+    "Systemintegration/L01 Systemintegration Introduktion",
+    "Systemintegration/L02 Messaging Systems og Channels/L02 Ressourcer/fileTransfer.png",
+    "Systemintegration/L02 Messaging Systems og Channels/L02 Noter.md",
+    "Systemintegration/L02 Messaging Systems og Channels/L02 Ressourcer",
+    "Systemintegration/L02 Messaging Systems og Channels",
     "Systemintegration/L01 Systemintegration Introduktion.md",
     "SharedBusinessFunction.png",
     "Shared Business FunctionShared Business Function.md",
@@ -208,7 +210,6 @@
     "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf",
     "CS og .NET/PDF'er",
     "iOS mappe",
-    "CS og .NET",
     "Welcome.md",
     "wa.md",
     "New mappe/wae.md",
