@@ -64,4 +64,6 @@ Hvis afsenderen og modtageren ikke kan være enige om en data format, kan afsend
 En applikation, som ønsker at bruge beskedtjenester, vil implementere message endpoints for at udføre dens aktuelle afsendelse og modtagelse.
 
 
-#### Kapitel 3: 
+#### Kapitel 3: Messaging Systems
+
+##### Messaging Koncepter
