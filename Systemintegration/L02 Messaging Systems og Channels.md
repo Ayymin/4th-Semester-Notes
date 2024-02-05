@@ -20,9 +20,11 @@ For at kunne iscenesætte hvad der skaber en god applikationsintegration, skal m
 Der er et hav af forskellige kriterier, som kan findes yderligere på **side 143**, tilsvarende er der også flere valgmuligheder for at imødekomme krævende.
 Heriblandt:
 * File Transfer, Shared Database, Messaging.
-Der vil dog blive taget udgangspunkt i Messaging, som kan defineres:
+Der vil dog senere blive taget udgangspunkt i Messaging, som kan defineres:
 * Lad hver applikation forbinde til et fælles beskeds system og udveklse data samt udføre handlinger ved brug af beskeder. 
 
+
+####
 
 
 
