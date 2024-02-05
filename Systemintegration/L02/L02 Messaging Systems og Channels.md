@@ -24,7 +24,8 @@ Der vil dog senere blive taget udgangspunkt i Messaging, som kan defineres:
 * Lad hver applikation forbinde til et fælles beskeds system og udveklse data samt udføre handlinger ved brug af beskeder. 
 
 
-####
+##### File Transfer
+![[fileTransfer.png]]
 
 
 

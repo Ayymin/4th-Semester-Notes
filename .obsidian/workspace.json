@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systemintegration/L02 Messaging Systems og Channels.md",
+                "file": "Systemintegration/L02/L02 Messaging Systems og Channels.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f638bce24787638b",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systemintegration/L02 Messaging Systems og Channels.md",
+                "file": "Systemintegration/L02/L02 Messaging Systems og Channels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systemintegration/L02 Messaging Systems og Channels.md",
+                "file": "Systemintegration/L02/L02 Messaging Systems og Channels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systemintegration/L02 Messaging Systems og Channels.md"
+                "file": "Systemintegration/L02/L02 Messaging Systems og Channels.md"
               }
             }
           }
@@ -184,10 +183,12 @@
       }
     ]
   },
-  "active": "c9b0988b77b78f42",
+  "active": "371e0d260a2afdff",
   "lastOpenFiles": [
+    "fileTransfer.png",
+    "Systemintegration/L02",
+    "Systemintegration/L02/L02 Messaging Systems og Channels.md",
     "Systemintegration/L01 Systemintegration Introduktion.md",
-    "Systemintegration/L02 Messaging Systems og Channels.md",
     "SharedBusinessFunction.png",
     "Shared Business FunctionShared Business Function.md",
     "Service-OrientedArchitecture.png",
@@ -211,7 +212,6 @@
     "Welcome.md",
     "wa.md",
     "New mappe/wae.md",
-    "New mappe/Test note.md",
-    "New mappe"
+    "New mappe/Test note.md"
   ]
 }
