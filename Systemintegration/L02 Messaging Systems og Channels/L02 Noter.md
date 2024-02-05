@@ -40,4 +40,5 @@ Der kan dog opstå udfordringer som man skal være varsom omkring, når det komm
 Hvis man nu heller vil integrere applikationers funktionalitet, frem for deres data kan man anvende Remote Proceudure Invocation. Hvis man vil gøre brug af frekvente udvkeksling af data i små mængder, som bruger datatyper, kan man gøre brug af Messaging.
 #RemoteProcedureInvocation #Messaging
 ##### Remote Procedure Invocation 
-Hvis en applikation skal bruge informationer fra en anden, kan den direkte spørge 
+Hvis en applikation skal bruge informationer fra en anden, kan den direkte spørge applikationen. 
+Hvis en applikation har brug for at ændre på data, fra en 
