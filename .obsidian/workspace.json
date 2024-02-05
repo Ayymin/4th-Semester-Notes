@@ -11,11 +11,9 @@
             "id": "c9b0988b77b78f42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Systemintegration/L02 Messaging Systems og Channels/L02 Noter.md",
-                "mode": "source",
-                "source": false
+                "file": "remoteApplicationProcedure.png"
               }
             }
           }
@@ -69,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f638bce24787638b",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systemintegration/L02 Messaging Systems og Channels/L02 Noter.md",
+                "file": "remoteApplicationProcedure.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systemintegration/L02 Messaging Systems og Channels/L02 Noter.md",
+                "file": "remoteApplicationProcedure.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systemintegration/L02 Messaging Systems og Channels/L02 Noter.md"
+                "file": "remoteApplicationProcedure.png"
               }
             }
           }
@@ -186,8 +183,9 @@
   },
   "active": "371e0d260a2afdff",
   "lastOpenFiles": [
-    "Systemintegration/L02 Messaging Systems og Channels/L02 Ressourcer/sharedDatabase.png",
     "Systemintegration/L02 Messaging Systems og Channels/L02 Noter.md",
+    "remoteApplicationProcedure.png",
+    "Systemintegration/L02 Messaging Systems og Channels/L02 Ressourcer/sharedDatabase.png",
     "Systemintegration/Dagsplaner/Dagsplan02.pdf",
     "Systemintegration/L01 Systemintegration Introduktion/L01 Ressourcer/msedge_sF2ShcrmjJ.png",
     "Systemintegration/L01 Systemintegration Introduktion/L01 Ressourcer/Business-To-Business.png",
