@@ -61,4 +61,7 @@ Hvis afsenderen ikke ved hvor dataen skal sendes, kan den sende dataene til en *
 Hvis afsenderen og modtageren ikke kan være enige om en data format, kan afsendere "directe" dataen til en **Message Translator** som kan konvertere dataen til modtagerens format, og dermed forwarde dataen til modtageren.
 
 * Hvis man er en applikations udvikler, hvordan forbinder man sin applikation til dette message system?
-En applikation, som ønsker a
+En applikation, som ønsker at bruge beskedtjenester, vil implementere message endpoints for at udføre dens aktuelle afsendelse og modtagelse.
+
+
+#### Kapitel 3: 
