@@ -21,6 +21,8 @@ Der er et hav af forskellige kriterier, som kan findes yderligere på **side 143
 Heriblandt:
 * File Transfer, Shared Database, Messaging.
 Der vil dog blive taget udgangspunkt i Messaging, som kan defineres:
-* Lad hver applikation forbinde til et fælles beskedssystem og udveklse data samt udføre handlinger ved brug af beskeder. 
+* Lad hver applikation forbinde til et fælles beskeds system og udveklse data samt udføre handlinger ved brug af beskeder. 
+
+
 
 
