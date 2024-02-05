@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systemintegration/L01 Systemintegration Introduktion.md",
+                "file": "Systemintegration/L02 Messaging Systems og Channels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systemintegration/L01 Systemintegration Introduktion.md",
+                "file": "Systemintegration/L02 Messaging Systems og Channels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systemintegration/L01 Systemintegration Introduktion.md"
+                "file": "Systemintegration/L02 Messaging Systems og Channels.md"
               }
             }
           }
@@ -174,8 +174,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 492,
-        "y": 32,
+        "x": 1158,
+        "y": 113,
         "width": 600,
         "height": 600,
         "maximize": false,
@@ -183,10 +183,10 @@
       }
     ]
   },
-  "active": "d24eb8e888348e6f",
+  "active": "c9b0988b77b78f42",
   "lastOpenFiles": [
-    "Systemintegration/L02 Messaging Systems og Channels.md",
     "Systemintegration/L01 Systemintegration Introduktion.md",
+    "Systemintegration/L02 Messaging Systems og Channels.md",
     "Business-To-Business.png",
     "Service-OrientedArchitecture.png",
     "SharedBusinessFunction.png",
