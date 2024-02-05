@@ -53,3 +53,6 @@ Når man har besluttet sig for at anvende messaging for system integration, er d
 
  * Hvordan vil du transfer data packets?
 En afsender sender data til en reciever ved at sende en message via en Message Channel, som forbinder afsenderen og recieveren.
+
+* Hvordan ved man hvor man skal sende dataen?
+Hvis afsenderen ikke kender til 
