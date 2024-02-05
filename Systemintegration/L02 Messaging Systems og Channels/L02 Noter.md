@@ -84,5 +84,8 @@ I et stort miljø med mange applikationer og channels, kan det være kompliceret
 Koncepter såsom Translator, som ændrer på dataformat.
 
 **Endpoints:**
+Applikationer bør indeholde et lag af kode, der kender både applikationens funktioner og beskedssystemets funtkioner.
+
+
 
 
