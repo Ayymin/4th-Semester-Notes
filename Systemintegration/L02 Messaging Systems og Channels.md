@@ -17,5 +17,8 @@ For at kunne iscenesætte hvad der skaber en god applikationsintegration, skal m
 * Technology Selektion: Forskellige former for systemintegrations teknologi kræver specifikt software, som kan være dyrere og kan kræve høj faglighed blandt udviklere. På samme tid, så kræver det også mere arbejde end nødvendigt at lave sådan en løsning fra scratch.
 * Data Format: Integreret applikationer skal være enige om den data som de udveksler.
 
-Der er et hav af forskellige kriterier, som kan findes yderligere på **side 143**, tilsvarende er 
+Der er et hav af forskellige kriterier, som kan findes yderligere på **side 143**, tilsvarende er der også flere valgmuligheder for at imødekomme krævende.
+Heriblandt:
+* File Transfer, Shared Database, Messaging.
+
 
