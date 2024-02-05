@@ -12,5 +12,6 @@ Kapitel 3: 167 - 230
 
 #### Kapitel 2: Integration Styles
 
-For at kunne iscenesætte hvad der skaber en god applikationsintegration, skal man overveje kriterier 
+For at kunne iscenesætte hvad der skaber en god applikationsintegration, skal man overveje kriterier.
+* Application coupling: Integreret applikationer skal minimere deres afhængighed af hinanden, så man kan videreudvikle en applikation uden at påvirke den anden. Høj samhørighed, lav kobling. 
 
