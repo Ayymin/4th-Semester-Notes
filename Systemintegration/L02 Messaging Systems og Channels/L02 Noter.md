@@ -29,5 +29,6 @@ Der vil dog senere blive taget udgangspunkt i Messaging, som kan defineres:
 
 Filer som vi kender det, er en universel mekanisme der anvendes til at bevare data. Det vil derfor være en yderst god ide at give disse applikationer muligheden for at kunne udveklse disse filer, dog kræver dette noget forarbejde. 
 * Filformater skal overvejes, da outputtet fra en applikation måske ikke helt er hvad der er behov for, i den anden applikation .
-* Hvornår skal fil
+* Hvornår skal filerne produceres og hvornår skal de "consumes". 
+* 
 
