@@ -49,3 +49,5 @@ Dette kaldes for encapsulation.
 
 
 ##### Messaging
+Når man har besluttet sig for at anvende messaging for system integration, er der nogle faktorer som man skal overveje.
+* Hvordan vil du sende 
