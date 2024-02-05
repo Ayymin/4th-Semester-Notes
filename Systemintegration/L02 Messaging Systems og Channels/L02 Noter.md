@@ -72,5 +72,8 @@ Message applikationer transmitter data gennem en Message Channel, som forbinder 
 
 **Messages:**
 En message er en atomisk packet af data som kan blive transmitted på en channel. For at kunne transmitte data, skal en applikation først bryde data ned en eller flere packets og give en message til enhver packet via wrapping. Derefter er det klar til at blive sendt til en channel.
-
 En reciever applikation modtager beskeden og må extracte dataet fra beskeden for at kunne processer det. 
+
+**Pipes and Filters:**
+Systemet leverere en besked direkte fra afsenderens computer til modtagerens computer. 
+
