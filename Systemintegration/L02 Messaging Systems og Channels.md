@@ -12,5 +12,5 @@ Kapitel 3: 167 - 230
 
 #### Kapitel 2: Integration Styles
 
-F
+For at kunne iscenesætte hvad der skaber en god applikationsintegration, skal man overveje kriterier 
 
