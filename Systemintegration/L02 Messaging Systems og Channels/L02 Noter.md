@@ -67,3 +67,7 @@ En applikation, som ønsker at bruge beskedtjenester, vil implementere message e
 #### Kapitel 3: Messaging Systems
 
 ##### Messaging Koncepter
+**Channels**:
+Message applikationer transmitter data gennem en Message Channel, som forbinder afsenderen til en modtager. 
+
+**Messages**
