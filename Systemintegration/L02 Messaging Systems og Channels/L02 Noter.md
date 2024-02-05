@@ -87,5 +87,8 @@ Koncepter såsom Translator, som ændrer på dataformat.
 Applikationer bør indeholde et lag af kode, der kender både applikationens funktioner og beskedssystemets funtkioner.
 
 
+###### Message Channel
+
+
 
 
