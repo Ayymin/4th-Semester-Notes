@@ -31,11 +31,6 @@ Filer som vi kender det, er en universel mekanisme der anvendes til at bevare da
 * Filformater skal overvejes, da outputtet fra en applikation måske ikke helt er hvad der er behov for, i den anden applikation .
 * Hvornår skal filerne produceres og hvornår skal de "consumes". 
 * Filnavngivning og i hvilken directory de skal opstås i skal også overvejes.
-
-
-
-
-
 ##### Shared Database
 ![[sharedDatabase.png]]
 Når applikationer deler en fælles database, kan de let hente og gemme filer på et centralt sted, ved brug af relationelle databaser. Vi er så heldig at SQL næsten kan bruges i alle former for applikationer, der tillader filoverførsler.
@@ -44,3 +39,4 @@ Der kan dog opstå udfordringer som man skal være varsom omkring, når det komm
 
 Hvis man nu heller vil integrere applikationers funktionalitet, frem for deres data kan man anvende Remote Proceudure Invocation. Hvis man vil gøre brug af frekvente udvkeksling af data i små mængder, som bruger datatyper, kan man gøre brug af Messaging.
 #RemoteProcedureInvocation #Messaging
+##### Remote Procedure Invocation 
