@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b36918ef666e9e80",
+        "id": "3e7a5663064c35ab",
         "type": "tabs",
         "children": [
           {
-            "id": "c9b0988b77b78f42",
+            "id": "63d1698b53ba8c46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systemintegration/L01 Systemintegration Introduktion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d24eb8e888348e6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Systemintegration/L01 Systemintegration Introduktion.md",
+                "file": "Systemintegration/L01 Introduktion til Systemintegration/L01 Opgaver.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f638bce24787638b",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systemintegration/L01 Systemintegration Introduktion.md",
+                "file": "Systemintegration/L01 Introduktion til Systemintegration/L01 Opgaver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systemintegration/L01 Systemintegration Introduktion.md",
+                "file": "Systemintegration/L01 Introduktion til Systemintegration/L01 Opgaver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systemintegration/L01 Systemintegration Introduktion.md"
+                "file": "Systemintegration/L01 Introduktion til Systemintegration/L01 Opgaver.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,32 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9b0988b77b78f42",
+  "active": "63d1698b53ba8c46",
   "lastOpenFiles": [
-    "Business-To-Business.png",
-    "Service-OrientedArchitecture.png",
-    "SharedBusinessFunction.png",
-    "Systemintegration/L01 Systemintegration Introduktion.md",
-    "Shared Business FunctionShared Business Function.md",
-    "msedge_sF2ShcrmjJ.png",
-    "DataReplikation.png",
-    "Informationsportal.png",
+    "Lek01Opg.pdf",
+    "Systemintegration/L01 Introduktion til Systemintegration/Medier/Informationsportal.png",
+    "Systemintegration/L01 Introduktion til Systemintegration/L01 Opgaver.md",
+    "Systemintegration/L01 Introduktion til Systemintegration/Medier/msedge_sF2ShcrmjJ.png",
+    "Systemintegration/L01 Introduktion til Systemintegration/Medier/SharedBusinessFunction.png",
+    "Systemintegration/L01 Introduktion til Systemintegration/Medier/DataReplikation.png",
+    "Systemintegration/L01 Introduktion til Systemintegration/Medier/Dagsplan01.pdf",
+    "Systemintegration/L01 Introduktion til Systemintegration/L01 Systemintegration Introduktion.md",
+    "Systemintegration/L01 Introduktion til Systemintegration/Medier",
+    "Systemintegration/L01 Introduktion til Systemintegration",
+    "Systemintegration/L01 Introduktion til Systemintegration/Medier/Business-To-Business.png",
     "CS og .NET/CS types and members.md",
-    "Systemintegration/Dagsplaner/Dagsplan01.pdf",
-    "Dagsplan01.pdf",
-    "Systemintegration/Dagsplaner",
     "Systemintegration",
-    "New test note.md",
-    "CS og .NET/Lektion 1 Introduktion til CS og .NET.md",
-    "CS og .NET/New mappe.md",
+    "Systemintegration/L01 Introduktion til Systemintegration/Medier/Shared Business FunctionShared Business Function.md",
+    "Systemintegration/L01 Introduktion til Systemintegration/Medier/Service-OrientedArchitecture.png",
     "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf",
+    "CS og .NET/CS types and members/Untitled.md",
+    "CS og .NET/CS types and members",
+    "CS og .NET/Lektion 1 Introduktion til CS og .NET.md",
+    "New test note.md",
+    "PDF",
     "CS og .NET/PDF'er",
-    "iOS mappe",
+    "CS og .NET/New mappe.md",
     "CS og .NET",
     "Welcome.md",
-    "wa.md",
-    "New mappe/wae.md",
-    "New mappe/Test note.md",
-    "New mappe"
+    "Test map/New mappe.md",
+    "Test map",
+    "New note.md",
+    "Untitled.md"
   ]
 }
