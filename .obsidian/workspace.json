@@ -147,52 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "74ca4af3cc04ec8f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7998088986fd7789",
-        "type": "window",
-        "children": [
-          {
-            "id": "90e175dfe4fad33b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d24eb8e888348e6f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Systemintegration/L01 Systemintegration Introduktion/L01 Noter.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1158,
-        "y": 113,
-        "width": 600,
-        "height": 600,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "c9b0988b77b78f42",
   "lastOpenFiles": [
+    "Systemintegration/L01 Systemintegration Introduktion/L01 Noter.md",
     "Systemintegration/L02 Messaging Systems og Channels/L02 Noter.md",
     "Systemintegration/L02 Messaging Systems og Channels/L02 Ressourcer/remoteProcedureInvocation.png",
     "Systemintegration/L02 Messaging Systems og Channels/L02 Ressourcer/sharedDatabase.png",
     "Systemintegration/Dagsplaner/Dagsplan02.pdf",
     "Systemintegration/L01 Systemintegration Introduktion/L01 Ressourcer/msedge_sF2ShcrmjJ.png",
     "Systemintegration/L01 Systemintegration Introduktion/L01 Ressourcer/Business-To-Business.png",
-    "Systemintegration/L01 Systemintegration Introduktion/L01 Noter.md",
     "Systemintegration/L01 Systemintegration Introduktion/L01 Ressourcer",
     "Systemintegration/L01 Systemintegration Introduktion",
     "Systemintegration/L02 Messaging Systems og Channels/L02 Ressourcer/fileTransfer.png",
