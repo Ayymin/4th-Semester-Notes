@@ -58,4 +58,6 @@ En afsender sender data til en reciever ved at sende en message via en Message C
 Hvis afsenderen ikke ved hvor dataen skal sendes, kan den sende dataene til en **Message Router**, som vil dirigere dataene til den rette modtager. 
 
 * Hvordan ved man hvilken data format man skal bruge?
-Hvis afsenderen og modtageren ikk
+Hvis afsenderen og modtageren ikke kan være enige om en data format, kan afsendere "directe" dataen til en **Message Translator** som kan konvertere dataen til modtagerens format, og dermed forwarde dataen til modtageren.
+
+* Hvis man er en applikations udvikler, hvord
