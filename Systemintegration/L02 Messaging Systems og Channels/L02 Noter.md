@@ -55,4 +55,7 @@ Når man har besluttet sig for at anvende messaging for system integration, er d
 En afsender sender data til en reciever ved at sende en message via en Message Channel, som forbinder afsenderen og recieveren.
 
 * Hvordan ved man hvor man skal sende dataen?
-Hvis afsenderen ikke kender til 
+Hvis afsenderen ikke ved hvor dataen skal sendes, kan den sende dataene til en **Message Router**, som vil dirigere dataene til den rette modtager. 
+
+* Hvordan ved man hvilken data format man skal bruge?
+Hvis afsenderen og modtageren ikk
