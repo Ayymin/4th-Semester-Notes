@@ -37,8 +37,10 @@ Når applikationer deler en fælles database, kan de let hente og gemme filer p�
 Der kan dog opstå udfordringer som man skal være varsom omkring, når det kommer til anvendelsen af shared databaser.
 * Hvis flere applikationer som bruger en shared database hyppigt anvender reads og modify på data, kan det skaber en flaskehals på databasens performance og skabe deadlocks, da applikationer spærrer vejen for hinanden. 
 
-Hvis man nu heller vil integrere applikationers funktionalitet, frem for deres data kan man anvende Remote Proceudure Invocation. Hvis man vil gøre brug af frekvente udvkeksling af data i små mængder, som bruger datatyper, kan man gøre brug af Messaging.
+Hvis man nu heller vil integrere applikationers funktionalitet, frem for deres data kan man anvende Remote Procedure Invocation. Hvis man vil gøre brug af frekvente udvkeksling af data i små mængder, som bruger datatyper, kan man gøre brug af Messaging.
 #RemoteProcedureInvocation #Messaging
 ##### Remote Procedure Invocation 
+
 Hvis en applikation skal bruge informationer fra en anden, kan den direkte spørge applikationen. 
-Hvis en applikation har brug for at ændre på data hos en ande
+Hvis en applikation har brug for at ændre på data hos en anden, kan den gøre det ved at lave et kald til den anden applikation. 
+Dette kaldes for encapsulation. 
