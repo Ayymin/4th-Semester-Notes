@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systemintegration/L01 Systemintegration Introduktion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d24eb8e888348e6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Systemintegration/L01 Systemintegration Introduktion.md",
+                "file": "Systemintegration/L02 Messaging Systems og Channels.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,12 +146,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "371e0d260a2afdff",
+  "floating": {
+    "id": "74ca4af3cc04ec8f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7998088986fd7789",
+        "type": "window",
+        "children": [
+          {
+            "id": "90e175dfe4fad33b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d24eb8e888348e6f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Systemintegration/L01 Systemintegration Introduktion.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 492,
+        "y": 32,
+        "width": 600,
+        "height": 600,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d24eb8e888348e6f",
   "lastOpenFiles": [
+    "Systemintegration/L02 Messaging Systems og Channels.md",
+    "Systemintegration/L01 Systemintegration Introduktion.md",
     "Business-To-Business.png",
     "Service-OrientedArchitecture.png",
     "SharedBusinessFunction.png",
-    "Systemintegration/L01 Systemintegration Introduktion.md",
     "Shared Business FunctionShared Business Function.md",
     "msedge_sF2ShcrmjJ.png",
     "DataReplikation.png",
