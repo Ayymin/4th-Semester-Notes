@@ -70,4 +70,4 @@ En applikation, som ønsker at bruge beskedtjenester, vil implementere message e
 **Channels**:
 Message applikationer transmitter data gennem en Message Channel, som forbinder afsenderen til en modtager. 
 
-**Messages**
+**Messages**#
