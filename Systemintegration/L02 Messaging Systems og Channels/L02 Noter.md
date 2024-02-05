@@ -88,6 +88,7 @@ Applikationer bør indeholde et lag af kode, der kender både applikationens fun
 
 
 ###### Message Channel
+An 
 
 
 
