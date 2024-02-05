@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f638bce24787638b",
@@ -159,7 +158,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9b0988b77b78f42",
+  "active": "371e0d260a2afdff",
   "lastOpenFiles": [
     "Business-To-Business.png",
     "Service-OrientedArchitecture.png",
@@ -171,7 +170,7 @@
     "Informationsportal.png",
     "CS og .NET/CS types and members.md",
     "Systemintegration/Dagsplaner/Dagsplan01.pdf",
-    "Dagsplan01.pdf",
+    "Systemintegration/Dagsplaner/Dagsplan01.pdf",
     "Systemintegration/Dagsplaner",
     "Systemintegration",
     "New test note.md",
