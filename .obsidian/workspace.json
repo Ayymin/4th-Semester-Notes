@@ -11,9 +11,11 @@
             "id": "c9b0988b77b78f42",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "remoteApplicationProcedure.png"
+                "file": "Systemintegration/L02 Messaging Systems og Channels/L02 Noter.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f638bce24787638b",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remoteApplicationProcedure.png",
+                "file": "Systemintegration/L02 Messaging Systems og Channels/L02 Noter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remoteApplicationProcedure.png",
+                "file": "Systemintegration/L02 Messaging Systems og Channels/L02 Noter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remoteApplicationProcedure.png"
+                "file": "Systemintegration/L02 Messaging Systems og Channels/L02 Noter.md"
               }
             }
           }
@@ -181,10 +184,10 @@
       }
     ]
   },
-  "active": "371e0d260a2afdff",
+  "active": "c9b0988b77b78f42",
   "lastOpenFiles": [
+    "Systemintegration/L02 Messaging Systems og Channels/L02 Ressourcer/remoteProcedureInvocation.png",
     "Systemintegration/L02 Messaging Systems og Channels/L02 Noter.md",
-    "remoteApplicationProcedure.png",
     "Systemintegration/L02 Messaging Systems og Channels/L02 Ressourcer/sharedDatabase.png",
     "Systemintegration/Dagsplaner/Dagsplan02.pdf",
     "Systemintegration/L01 Systemintegration Introduktion/L01 Ressourcer/msedge_sF2ShcrmjJ.png",

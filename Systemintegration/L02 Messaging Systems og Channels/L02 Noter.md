@@ -44,3 +44,4 @@ Hvis man nu heller vil integrere applikationers funktionalitet, frem for deres d
 Hvis en applikation skal bruge informationer fra en anden, kan den direkte spørge applikationen. 
 Hvis en applikation har brug for at ændre på data hos en anden, kan den gøre det ved at lave et kald til den anden applikation. 
 Dette kaldes for encapsulation. 
+
