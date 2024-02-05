@@ -7,3 +7,7 @@ Kapitel 2-3
 Kapitel 2: 141-165
 Kapitel 3: 167 - 230
 
+
+### Noter
+
+
