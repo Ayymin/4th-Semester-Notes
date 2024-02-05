@@ -77,5 +77,6 @@ En reciever applikation modtager beskeden og må extracte dataet fra beskeden fo
 **Pipes and Filters:**
 Systemet leverere en besked direkte fra afsenderens computer til modtagerens computer. Dog skal der ske nogle handlinger på beskeden, efter den er sendt, men før den modtages af recieveren. 
 
-**Ro
+**Routing**
+I et stort miljø med mange applikationer og channels, kan det være kompliceret at få den sendt afsted helt korrekt, derfor 
 
