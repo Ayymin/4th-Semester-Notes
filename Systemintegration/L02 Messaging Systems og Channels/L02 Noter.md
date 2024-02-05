@@ -40,4 +40,4 @@ Filer som vi kender det, er en universel mekanisme der anvendes til at bevare da
 ![[sharedDatabase.png]]
 Når applikationer deler en fælles database, kan de let hente og gemme filer på et centralt sted, ved brug af relationelle databaser. Vi er så heldig at SQL næsten kan bruges i alle former for applikationer, der tillader filoverførsler.
 Der kan dog opstå udfordringer som man skal være varsom omkring, når det kommer til anvendelsen af shared databaser.
-* Hvis flere applikationer som bruger en shared database hyppigt anvender reads og modify på data
+* Hvis flere applikationer som bruger en shared database hyppigt anvender reads og modify på data, kan det skaber en flaskehals på databasens performance og skabe deadlocks, da applikationer spærrer vejen for hinanden. 
