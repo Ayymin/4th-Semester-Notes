@@ -88,7 +88,9 @@ Applikationer bør indeholde et lag af kode, der kender både applikationens fun
 
 
 ###### Message Channel
-An 
+En enterprise har two separate applikationer som skal kommunikere via messaging.
+
+Man forbinder applikationer ved brug af Message Channel, hvor en applikation skriver infromationer til den givet channel og den anden læser info
 
 
 
