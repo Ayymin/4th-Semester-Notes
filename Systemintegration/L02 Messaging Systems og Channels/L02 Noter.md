@@ -75,5 +75,7 @@ En message er en atomisk packet af data som kan blive transmitted på en channel
 En reciever applikation modtager beskeden og må extracte dataet fra beskeden for at kunne processer det. 
 
 **Pipes and Filters:**
-Systemet leverere en besked direkte fra afsenderens computer til modtagerens computer. 
+Systemet leverere en besked direkte fra afsenderens computer til modtagerens computer. Dog skal der ske nogle handlinger på beskeden, efter den er sendt, men før den modtages af recieveren. 
+
+**Ro
 
