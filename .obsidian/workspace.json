@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf"
+                "file": "Lek01Opg.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf",
+                "file": "Lek01Opg.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf",
+                "file": "Lek01Opg.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf"
+                "file": "Lek01Opg.pdf"
               }
             }
           }
@@ -146,6 +146,8 @@
   },
   "active": "c9b0988b77b78f42",
   "lastOpenFiles": [
+    "CS og .NET/CS types and members.md",
+    "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf",
     "Systemintegration/L02 Messaging Systems og Channels/L02 Noter.md",
     "Systemintegration/L01 Introduktion til Systemintegration/Medier/msedge_sF2ShcrmjJ.png",
     "Systemintegration/L01 Introduktion til Systemintegration/Medier/SharedBusinessFunction.png",
@@ -171,8 +173,6 @@
     "Systemintegration/L02 Messaging Systems og Channels/L02 Ressourcer",
     "Systemintegration/L02 Messaging Systems og Channels",
     "Shared Business FunctionShared Business Function.md",
-    "CS og .NET/CS types and members.md",
-    "Systemintegration/Dagsplaner/Dagsplan01.pdf",
     "New test note.md",
     "CS og .NET/Lektion 1 Introduktion til CS og .NET.md",
     "CS og .NET/New mappe.md",
