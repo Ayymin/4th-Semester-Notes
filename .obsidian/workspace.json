@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3e7a5663064c35ab",
+        "id": "b36918ef666e9e80",
         "type": "tabs",
         "children": [
           {
-            "id": "63d1698b53ba8c46",
+            "id": "c9b0988b77b78f42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "iOS/L04 Property Wrappers/L04 Noter.md",
+                "file": "Systemintegration/L02 Messaging Systems og Channels/L02 Noter.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Structs",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "f638bce24787638b",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "iOS/L04 Property Wrappers/L04 Noter.md",
+                "file": "Systemintegration/L02 Messaging Systems og Channels/L02 Noter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "iOS/L04 Property Wrappers/L04 Noter.md",
+                "file": "Systemintegration/L02 Messaging Systems og Channels/L02 Noter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "iOS/L04 Property Wrappers/L04 Noter.md"
+                "file": "Systemintegration/L02 Messaging Systems og Channels/L02 Noter.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,50 +146,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63d1698b53ba8c46",
+  "active": "c9b0988b77b78f42",
   "lastOpenFiles": [
-    "CS og .NET/L03 - Objektorientering/L03 Noter.md",
-    "iOS/L04 Property Wrappers/L04 Noter.md",
-    "iOS/L04 Property Wrappers",
-    "CS og .NET/L03 - Objektorientering/L03 Ressourcer/L03 - Øvelser.pdf",
-    "CS og .NET/L03 - Objektorientering/L03 Ressourcer/L03 - ObjektorienteringsPP.pdf",
-    "CS og .NET/L03 - Objektorientering/L03 Ressourcer",
-    "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf",
-    "CS og .NET/CS types and members.md",
-    "CS og .NET/L03 - Objektorientering",
-    "Obsidian_sKtxIBg2VO.png",
-    "Systemintegration/L05 Information Integration Architectures/L05 Noter.md",
-    "Systemintegration/L05 Information Integration Architectures/L05 Ressourcer/Information Integration Architecture.md",
-    "Systemintegration/L02 Messaging Systems og Channels/L02 Noter.md",
-    "Systemintegration/L04 Technical & Service Integration Architecture/Fastnoter.md",
-    "Systemintegration/L05 Information Integration Architectures/L05 Ressourcer/EIGuide_Note03.pdf",
-    "Lek01Opg.pdf",
-    "Systemintegration/L01 Introduktion til Systemintegration/Medier/Dagsplan01.pdf",
-    "Systemintegration/L01 Introduktion til Systemintegration/Medier/DataReplikation.png",
-    "Systemintegration/L01 Introduktion til Systemintegration/Medier/Informationsportal.png",
     "Systemintegration/L01 Introduktion til Systemintegration/Medier/msedge_sF2ShcrmjJ.png",
-    "Systemintegration/L01 Introduktion til Systemintegration/Medier/Service-OrientedArchitecture.png",
     "Systemintegration/L01 Introduktion til Systemintegration/Medier/SharedBusinessFunction.png",
+    "Systemintegration/L01 Introduktion til Systemintegration/Medier/Shared Business FunctionShared Business Function.md",
+    "Systemintegration/L01 Introduktion til Systemintegration/Medier/Service-OrientedArchitecture.png",
+    "Systemintegration/L01 Introduktion til Systemintegration/Medier/Informationsportal.png",
+    "Systemintegration/L01 Introduktion til Systemintegration/Medier/DataReplikation.png",
+    "Systemintegration/L01 Introduktion til Systemintegration/Medier/Dagsplan01.pdf",
     "Systemintegration/L01 Introduktion til Systemintegration/Medier/Business-To-Business.png",
-    "Systemintegration/L05 Information Integration Architectures/L05 Ressourcer",
-    "Systemintegration/Untitled.md",
-    "Systemintegration/L03 Bestemmelse af nuværende integrationsarkitektur/Untitled.md",
-    "iOS/L02 SwiftUI/Untitled.md",
-    "Systemintegration/L03 Bestemmelse af nuværende integrationsarkitektur/L03 Noter.md",
-    "Systemintegration/L03 Bestemmelse af nuværende integrationsarkitektur/L03 Ressourcer/IntegrationsArkitekturAfdækning.png",
+    "Systemintegration/L01 Introduktion til Systemintegration/Medier",
+    "Systemintegration/L01 Introduktion til Systemintegration/L01 Systemintegration Introduktion.md",
     "Systemintegration/L01 Introduktion til Systemintegration/L01 Opgaver.md",
+    "Systemintegration/L01 Introduktion til Systemintegration",
+    "Lek01Opg.pdf",
+    "Systemintegration/L02 Messaging Systems og Channels/L02 Ressourcer/messageChannel.png",
+    "Systemintegration/L02 Messaging Systems og Channels/L02 Noter.md",
+    "Systemintegration/L01 Systemintegration Introduktion/L01 Noter.md",
     "Systemintegration/L02 Messaging Systems og Channels/L02 Ressourcer/remoteProcedureInvocation.png",
     "Systemintegration/L02 Messaging Systems og Channels/L02 Ressourcer/sharedDatabase.png",
-    "Systemintegration/L01 Systemintegration Introduktion/L01 Noter.md",
-    "Systemintegration/L01 Introduktion til Systemintegration/L01 Systemintegration Introduktion.md",
-    "Systemintegration/L01 Introduktion til Systemintegration/Medier/Shared Business FunctionShared Business Function.md",
-    "CS og .NET/CS types and members/Untitled.md",
-    "CS og .NET/Lektion 1 Introduktion til CS og .NET.md",
+    "Systemintegration/Dagsplaner/Dagsplan02.pdf",
+    "Systemintegration/L01 Systemintegration Introduktion/L01 Ressourcer/msedge_sF2ShcrmjJ.png",
+    "Systemintegration/L01 Systemintegration Introduktion/L01 Ressourcer/Business-To-Business.png",
+    "Systemintegration/L01 Systemintegration Introduktion/L01 Ressourcer",
+    "Systemintegration/L01 Systemintegration Introduktion",
+    "Systemintegration/L02 Messaging Systems og Channels/L02 Ressourcer",
+    "Systemintegration/L02 Messaging Systems og Channels",
+    "Shared Business FunctionShared Business Function.md",
+    "CS og .NET/CS types and members.md",
+    "Systemintegration/Dagsplaner/Dagsplan01.pdf",
     "New test note.md",
+    "CS og .NET/Lektion 1 Introduktion til CS og .NET.md",
     "CS og .NET/New mappe.md",
     "Welcome.md",
-    "Test map/New mappe.md",
-    "New note.md",
-    "Untitled.md"
+    "wa.md",
+    "New mappe/wae.md",
+    "New mappe/Test note.md"
   ]
 }
