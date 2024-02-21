@@ -11,11 +11,9 @@
             "id": "c9b0988b77b78f42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Systemintegration/L02 Messaging Systems og Channels/L02 Noter.md",
-                "mode": "source",
-                "source": false
+                "file": "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systemintegration/L02 Messaging Systems og Channels/L02 Noter.md",
+                "file": "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systemintegration/L02 Messaging Systems og Channels/L02 Noter.md",
+                "file": "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systemintegration/L02 Messaging Systems og Channels/L02 Noter.md"
+                "file": "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf"
               }
             }
           }
@@ -148,6 +146,7 @@
   },
   "active": "c9b0988b77b78f42",
   "lastOpenFiles": [
+    "Systemintegration/L02 Messaging Systems og Channels/L02 Noter.md",
     "Systemintegration/L01 Introduktion til Systemintegration/Medier/msedge_sF2ShcrmjJ.png",
     "Systemintegration/L01 Introduktion til Systemintegration/Medier/SharedBusinessFunction.png",
     "Systemintegration/L01 Introduktion til Systemintegration/Medier/Shared Business FunctionShared Business Function.md",
@@ -162,13 +161,11 @@
     "Systemintegration/L01 Introduktion til Systemintegration",
     "Lek01Opg.pdf",
     "Systemintegration/L02 Messaging Systems og Channels/L02 Ressourcer/messageChannel.png",
-    "Systemintegration/L02 Messaging Systems og Channels/L02 Noter.md",
     "Systemintegration/L01 Systemintegration Introduktion/L01 Noter.md",
     "Systemintegration/L02 Messaging Systems og Channels/L02 Ressourcer/remoteProcedureInvocation.png",
     "Systemintegration/L02 Messaging Systems og Channels/L02 Ressourcer/sharedDatabase.png",
     "Systemintegration/Dagsplaner/Dagsplan02.pdf",
     "Systemintegration/L01 Systemintegration Introduktion/L01 Ressourcer/msedge_sF2ShcrmjJ.png",
-    "Systemintegration/L01 Systemintegration Introduktion/L01 Ressourcer/Business-To-Business.png",
     "Systemintegration/L01 Systemintegration Introduktion/L01 Ressourcer",
     "Systemintegration/L01 Systemintegration Introduktion",
     "Systemintegration/L02 Messaging Systems og Channels/L02 Ressourcer",
