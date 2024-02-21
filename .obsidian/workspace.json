@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systemintegration/L01 Introduktion til Systemintegration/L01 Opgaver.md",
+                "file": "iOS/L04 Property Wrappers/L04 Noter.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Structs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systemintegration/L01 Introduktion til Systemintegration/L01 Opgaver.md",
+                "file": "iOS/L04 Property Wrappers/L04 Noter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systemintegration/L01 Introduktion til Systemintegration/L01 Opgaver.md",
+                "file": "iOS/L04 Property Wrappers/L04 Noter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systemintegration/L01 Introduktion til Systemintegration/L01 Opgaver.md"
+                "file": "iOS/L04 Property Wrappers/L04 Noter.md"
               }
             }
           }
@@ -148,33 +148,47 @@
   },
   "active": "63d1698b53ba8c46",
   "lastOpenFiles": [
-    "Lek01Opg.pdf",
-    "Systemintegration/L01 Introduktion til Systemintegration/Medier/Informationsportal.png",
-    "Systemintegration/L01 Introduktion til Systemintegration/L01 Opgaver.md",
-    "Systemintegration/L01 Introduktion til Systemintegration/Medier/msedge_sF2ShcrmjJ.png",
-    "Systemintegration/L01 Introduktion til Systemintegration/Medier/SharedBusinessFunction.png",
-    "Systemintegration/L01 Introduktion til Systemintegration/Medier/DataReplikation.png",
-    "Systemintegration/L01 Introduktion til Systemintegration/Medier/Dagsplan01.pdf",
-    "Systemintegration/L01 Introduktion til Systemintegration/L01 Systemintegration Introduktion.md",
-    "Systemintegration/L01 Introduktion til Systemintegration/Medier",
-    "Systemintegration/L01 Introduktion til Systemintegration",
-    "Systemintegration/L01 Introduktion til Systemintegration/Medier/Business-To-Business.png",
-    "CS og .NET/CS types and members.md",
-    "Systemintegration",
-    "Systemintegration/L01 Introduktion til Systemintegration/Medier/Shared Business FunctionShared Business Function.md",
-    "Systemintegration/L01 Introduktion til Systemintegration/Medier/Service-OrientedArchitecture.png",
+    "CS og .NET/L03 - Objektorientering/L03 Noter.md",
+    "iOS/L04 Property Wrappers/L04 Noter.md",
+    "iOS/L04 Property Wrappers",
+    "CS og .NET/L03 - Objektorientering/L03 Ressourcer/L03 - Øvelser.pdf",
+    "CS og .NET/L03 - Objektorientering/L03 Ressourcer/L03 - ObjektorienteringsPP.pdf",
+    "CS og .NET/L03 - Objektorientering/L03 Ressourcer",
     "CS og .NET/PDF'er/Lek1 Opgaver (1).pdf",
+    "CS og .NET/CS types and members.md",
+    "CS og .NET/L03 - Objektorientering",
+    "Obsidian_sKtxIBg2VO.png",
+    "Systemintegration/L05 Information Integration Architectures/L05 Noter.md",
+    "Systemintegration/L05 Information Integration Architectures/L05 Ressourcer/Information Integration Architecture.md",
+    "Systemintegration/L02 Messaging Systems og Channels/L02 Noter.md",
+    "Systemintegration/L04 Technical & Service Integration Architecture/Fastnoter.md",
+    "Systemintegration/L05 Information Integration Architectures/L05 Ressourcer/EIGuide_Note03.pdf",
+    "Lek01Opg.pdf",
+    "Systemintegration/L01 Introduktion til Systemintegration/Medier/Dagsplan01.pdf",
+    "Systemintegration/L01 Introduktion til Systemintegration/Medier/DataReplikation.png",
+    "Systemintegration/L01 Introduktion til Systemintegration/Medier/Informationsportal.png",
+    "Systemintegration/L01 Introduktion til Systemintegration/Medier/msedge_sF2ShcrmjJ.png",
+    "Systemintegration/L01 Introduktion til Systemintegration/Medier/Service-OrientedArchitecture.png",
+    "Systemintegration/L01 Introduktion til Systemintegration/Medier/SharedBusinessFunction.png",
+    "Systemintegration/L01 Introduktion til Systemintegration/Medier/Business-To-Business.png",
+    "Systemintegration/L05 Information Integration Architectures/L05 Ressourcer",
+    "Systemintegration/Untitled.md",
+    "Systemintegration/L03 Bestemmelse af nuværende integrationsarkitektur/Untitled.md",
+    "iOS/L02 SwiftUI/Untitled.md",
+    "Systemintegration/L03 Bestemmelse af nuværende integrationsarkitektur/L03 Noter.md",
+    "Systemintegration/L03 Bestemmelse af nuværende integrationsarkitektur/L03 Ressourcer/IntegrationsArkitekturAfdækning.png",
+    "Systemintegration/L01 Introduktion til Systemintegration/L01 Opgaver.md",
+    "Systemintegration/L02 Messaging Systems og Channels/L02 Ressourcer/remoteProcedureInvocation.png",
+    "Systemintegration/L02 Messaging Systems og Channels/L02 Ressourcer/sharedDatabase.png",
+    "Systemintegration/L01 Systemintegration Introduktion/L01 Noter.md",
+    "Systemintegration/L01 Introduktion til Systemintegration/L01 Systemintegration Introduktion.md",
+    "Systemintegration/L01 Introduktion til Systemintegration/Medier/Shared Business FunctionShared Business Function.md",
     "CS og .NET/CS types and members/Untitled.md",
-    "CS og .NET/CS types and members",
     "CS og .NET/Lektion 1 Introduktion til CS og .NET.md",
     "New test note.md",
-    "PDF",
-    "CS og .NET/PDF'er",
     "CS og .NET/New mappe.md",
-    "CS og .NET",
     "Welcome.md",
     "Test map/New mappe.md",
-    "Test map",
     "New note.md",
     "Untitled.md"
   ]
